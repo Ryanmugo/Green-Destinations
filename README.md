@@ -30,6 +30,41 @@
 ### Visualizations:
 
  #### Age Distribution:
+ 
    - Bar Chart showing the distribution of employees' ages, grouped into different age ranges.
 
  #### Years at Company Distribution:
+ 
+   - Bar chart displaying the distribution of employees based on their tenure at the company, binned by length of service.
+
+ #### Income Distribution:
+ 
+   - Bar chart illustrating the distribution of employees' monthly incomes, grouped into various income ranges.
+
+### Correlation Analysis:
+
+- Several scatter plots examine potential correlations between factors:
+
+  #### Age vs. Monthly Income:
+  
+    - Scatter plot (circle view) to explore correlation between age and monthly income.
+
+  #### Age vs. Years at Company:
+  
+    - Scatter plot (circle view) to analyze correlation between and years spent at the company.
+ 
+  #### Years at Company vs. Monthly Income:
+  
+    - Scatter plot (circle view) to investigate correlation between years at the company and monthly income.
+
+
+## Findings: 
+
+ - Calculated attrition rate highlights the percentage of employees who have left.
+ - Bar charts provide insights into the distribution of age, tenure and income among employees.
+ - Scatter plots visualize potential correlations between age, income and years at the company.
+
+
+## Conclusion:
+
+- This analysis aims to assist Green Destinations' HR Director in understanding attrition patterns. By examining age, tenure and income, the company can identify trends contributing to attrition and develop strategies to mitigate it.
