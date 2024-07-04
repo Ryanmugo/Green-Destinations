@@ -70,3 +70,8 @@
 ## Conclusion:
 
 - This analysis aims to assist Green Destinations' HR Director in understanding attrition patterns. By examining age, tenure and income, the company can identify trends contributing to attrition and develop strategies to mitigate it.
+
+
+## Access the Dashboard:
+
+ - View and interact with the Green Destinations Attrition Analysis Dashboard on Tableau Public: [dashboard_link](https://public.tableau.com/app/profile/ryan.gathari/viz/GreenDestination_17200399041580/GreenDestinationDashboard?publish=yes) 
