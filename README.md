@@ -1,5 +1,7 @@
 # Green Destinations Attrition Analysis
 
+![green-destinations-image](GREEN_IMAGE.png)
+
 ## Project Overview 
 
 - Green Destinations, a prominent travel agency, is experiencing an increase in employee attrition. This project aims to analyze the attrition data to identify trends and patterns. The HR Director is keen on understanding the attrition rate and exploring whether factors such as age, years at the company and income influence employees' likelihood to leave.
